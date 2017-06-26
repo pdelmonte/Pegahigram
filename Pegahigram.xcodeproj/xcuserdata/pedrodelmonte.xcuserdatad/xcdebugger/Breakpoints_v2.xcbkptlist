@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pegahigram/LogInViewController.swift"
+            timestampString = "519493907.831641"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "loginButtonPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pegahigram.LogInViewController.(loginButtonPressed (__ObjC.UIButton) -&gt; ()).(closure #1)"
+                  moduleName = "Pegahigram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodelmonte/Swift%20Applications/Pegahigram/Pegahigram/LogInViewController.swift"
+                  timestampString = "518604573.525055"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pegahigram.LogInViewController.(loginButtonPressed (__ObjC.UIButton) -&gt; ()).(closure #1)"
+                  moduleName = "Pegahigram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodelmonte/Swift%20Applications/Pegahigram/Pegahigram/LogInViewController.swift"
+                  timestampString = "518604573.531349"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pegahigram/UserSearchViewController.swift"
+            timestampString = "518986160.33514"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "userCellFollowButtonPressed(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pegahigram/SecondViewController.swift"
+            timestampString = "518988530.932146"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "postButtonPressed(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pegahigram.SecondViewController.(postButtonPressed (Any) -&gt; ()).(closure #1)"
+                  moduleName = "Pegahigram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodelmonte/Swift%20Applications/Pegahigram/Pegahigram/SecondViewController.swift"
+                  timestampString = "518616685.691531"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pegahigram.SecondViewController.(postButtonPressed (Any) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "Pegahigram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrodelmonte/Swift%20Applications/Pegahigram/Pegahigram/SecondViewController.swift"
+                  timestampString = "518616685.69607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "95">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
