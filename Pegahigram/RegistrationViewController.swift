@@ -46,9 +46,10 @@ class RegistrationViewController: UIViewController, UINavigationControllerDelega
                     UserDefaults.standard.synchronize()
                     let delegate : AppDelegate = UIApplication.shared.delegate as! AppDelegate
                     delegate.rememberLogin()
+                    self.view.endEditing(true)
                     
                 } else {
-                    self.showMessage(message: "Something went wrong")
+                    self.showMessage(message: "Could not Login, please try again")
                     print("error: \(String(describing: error))")
                 }
             }

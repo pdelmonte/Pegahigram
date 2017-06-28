@@ -48,10 +48,21 @@ class LogInViewController: UIViewController, FBSDKLoginButtonDelegate {
                     let delegate : AppDelegate = UIApplication.shared.delegate as! AppDelegate
                     delegate.rememberLogin()
                 }
+                    
+                else {
+                    self.showMessage(message: "Could not Login, please try again")
+                    print("error: \(String(describing: error))")
+                }
+
             })
-        }
+        } 
     }
     
+    func showMessage(message: String) {
+        let alert = UIAlertController(title: "Message", message: message, preferredStyle: .alert)
+        alert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
+        present(alert, animated: true, completion: nil)
+    }
     
     func loginButton(_ loginButton: FBSDKLoginButton!, didCompleteWith result: FBSDKLoginManagerLoginResult!, error: Error!) {
         if error != nil {
